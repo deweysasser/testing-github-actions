@@ -1,4 +1,4 @@
-# golang-program
+# testing-github-actions
 
 A base for utility software written in golang
 

@@ -1,4 +1,4 @@
-module github.com/deweysasser/golang-program
+module github.com/deweysasser/testing-github-actions
 
 go 1.22
 
